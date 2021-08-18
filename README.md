@@ -1,9 +1,10 @@
 # InputMethod
 solve for the problem
-运行环境为python3.7
-所需库为xpinyin pillow
-使用前请执行如下命令
+运行环境为python3.7  所需库为xpinyin pillow
+使用前请执行如下命令安装所需库
+
 pip install xpinyin
+
 pip install pillow
 
 文章转拼音使用了xpinyin库通过将文章字符串转化为拼音，再对拼音字符串进行处理得到拼音列表
